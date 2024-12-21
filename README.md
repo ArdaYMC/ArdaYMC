@@ -1,4 +1,4 @@
-[![MasterHead](https://coderscat.com/images/hardest-programming-language.png)
+![MasterHead](https://coderscat.com/images/hardest-programming-language.png)
 
 <h1 align="center">Hi 👋, I'm Arda</h1>
 <h3 align="center">A passionate fullstack developer from Türkiye</h3>
