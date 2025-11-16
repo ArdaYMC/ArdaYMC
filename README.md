@@ -1,7 +1,7 @@
 ![MasterHead](https://coderscat.com/images/hardest-programming-language.png)
 
 <h1 align="center">Hi 👋, I'm Arda</h1>
-<h3 align="center">A passionate fullstack developer from Türkiye</h3>
+<h3 align="center">A passionate MLOps & AI Engineer from Türkiye</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
